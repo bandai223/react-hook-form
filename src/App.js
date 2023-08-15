@@ -26,7 +26,7 @@ function App() {
           <option value="3">ผู้ดูแล</option>
           <option value="4">คนคอน</option>
         </Form.Select>
-      </Form.Group>
+      </Form.Group> 
       <Form.Group>
         <Form.Check {...register("remember")} 
         type="checkbox" 
